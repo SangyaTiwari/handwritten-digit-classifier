@@ -5,7 +5,7 @@ This project demonstrates how to classify handwritten digits (0–9) using a dee
 ##  Objective
 Build and train a neural network to accurately classify grayscale images of handwritten digits.
 
-## 🔧 Tech Stack
+##  Tech Stack
 - Python
 - TensorFlow / Keras
 - Matplotlib, NumPy
